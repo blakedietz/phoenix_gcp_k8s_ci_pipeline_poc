@@ -1,5 +1,10 @@
 # App
 
+## Description
+
+An example app that plans on demonstrating how to create per branch environments utilizing k8s namespaces, powered by gcp and github actions
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
